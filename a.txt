@@ -1,0 +1,12 @@
+'e'
+'c'
+'h'
+'o'
+Key.space
+'l'
+'s'
+'k'
+'d'
+'j'
+'f'
+Key.enter

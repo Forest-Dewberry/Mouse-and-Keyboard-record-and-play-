@@ -29,12 +29,13 @@ else:
 
 print("""%s
 
-               _ 
-     /\       | |
-    /  \      | |
-   / /\ \ _   | |
-  / ____ \ |__| |
- /_/    \_\____/ %s
+                _ 
+      /\       | |
+     /  \      | |
+    / /\ \ _   | |
+   / ____ \ |__| |
+  /_/    \_\____/ 
+ %s
                  
         >>> FOR EACH AND EVERY ACTION THERE WILL BE A DELAY OF 0.5 sec BY DEFAULT. YOU CAN CHANGE IT WHILE REPLAYING ACTIONS 
             IN CONTROLLER 
